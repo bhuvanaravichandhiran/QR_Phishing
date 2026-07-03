@@ -1,0 +1,18 @@
+{
+  "short_name": "QRSafe",
+  "name": "QRSafe - QR Code Phishing Detector",
+  "description": "AI-powered QR code threat analysis",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#1e3a8a",
+  "orientation": "portrait"
+}
